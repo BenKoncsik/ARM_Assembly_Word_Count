@@ -1,5 +1,5 @@
 # ARM-Assembly-Word_Count
-ARM 32-bit, cortex A-7 (Egyetem 2021 beadando)
+ARM 32-bit, cortex A-7
 
                                                 Szószámolás
   A feladat, egy assemblyben írt függvény és a hozzátartozó keretprogram elkészítése mely megszámolja a bemeneti szövegben hány szó található. Az eljárás csak az angol ABC 26 kis ´es nagybetűkből képzett szavakat tekintse szónak. Bármilyen ´írásjel, szam a szóvéget jelenti.
